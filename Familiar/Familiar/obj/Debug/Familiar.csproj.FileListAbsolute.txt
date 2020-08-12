@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Familiar\Familiar\bin\Debug\Familiar.exe.config
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Familiar\Familiar\bin\Debug\Familiar.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Familiar\Familiar\bin\Debug\Familiar.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Familiar\Familiar\obj\Debug\Familiar.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Familiar\Familiar\obj\Debug\Familiar.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Familiar\Familiar\obj\Debug\Familiar.pdb

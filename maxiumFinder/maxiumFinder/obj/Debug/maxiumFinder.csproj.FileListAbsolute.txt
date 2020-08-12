@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\maxiumFinder\maxiumFinder\bin\Debug\maxiumFinder.exe.config
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\maxiumFinder\maxiumFinder\bin\Debug\maxiumFinder.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\maxiumFinder\maxiumFinder\bin\Debug\maxiumFinder.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\maxiumFinder\maxiumFinder\obj\Debug\maxiumFinder.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\maxiumFinder\maxiumFinder\obj\Debug\maxiumFinder.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\maxiumFinder\maxiumFinder\obj\Debug\maxiumFinder.pdb

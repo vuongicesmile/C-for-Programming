@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ChuongTrinhDauTien\ChuongTrinhDauTien\bin\Debug\ChuongTrinhDauTien.exe.config
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ChuongTrinhDauTien\ChuongTrinhDauTien\bin\Debug\ChuongTrinhDauTien.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ChuongTrinhDauTien\ChuongTrinhDauTien\bin\Debug\ChuongTrinhDauTien.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ChuongTrinhDauTien\ChuongTrinhDauTien\obj\Debug\ChuongTrinhDauTien.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ChuongTrinhDauTien\ChuongTrinhDauTien\obj\Debug\ChuongTrinhDauTien.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ChuongTrinhDauTien\ChuongTrinhDauTien\obj\Debug\ChuongTrinhDauTien.pdb

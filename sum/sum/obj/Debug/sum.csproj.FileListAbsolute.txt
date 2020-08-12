@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\sum\sum\bin\Debug\sum.exe.config
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\sum\sum\bin\Debug\sum.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\sum\sum\bin\Debug\sum.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\sum\sum\obj\Debug\sum.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\sum\sum\obj\Debug\sum.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\sum\sum\obj\Debug\sum.csprojResolveAssemblyReference.cache

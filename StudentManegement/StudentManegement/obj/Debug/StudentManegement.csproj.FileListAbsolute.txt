@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\StudentManegement\StudentManegement\bin\Debug\StudentManegement.exe.config
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\StudentManegement\StudentManegement\bin\Debug\StudentManegement.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\StudentManegement\StudentManegement\bin\Debug\StudentManegement.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\StudentManegement\StudentManegement\obj\Debug\StudentManegement.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\StudentManegement\StudentManegement\obj\Debug\StudentManegement.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\StudentManegement\StudentManegement\obj\Debug\StudentManegement.pdb

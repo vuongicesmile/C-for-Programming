@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\truefault\truefault\bin\Debug\truefault.exe.config
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\truefault\truefault\bin\Debug\truefault.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\truefault\truefault\bin\Debug\truefault.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\truefault\truefault\obj\Debug\truefault.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\truefault\truefault\obj\Debug\truefault.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\truefault\truefault\obj\Debug\truefault.pdb

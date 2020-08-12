@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ramdomInterger\ramdomInterger\bin\Debug\ramdomInterger.exe.config
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ramdomInterger\ramdomInterger\obj\Debug\ramdomInterger.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ramdomInterger\ramdomInterger\obj\Debug\ramdomInterger.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ramdomInterger\ramdomInterger\obj\Debug\ramdomInterger.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ramdomInterger\ramdomInterger\bin\Debug\ramdomInterger.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ramdomInterger\ramdomInterger\bin\Debug\ramdomInterger.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ConsoleApplication4\increament\bin\Debug\increament.exe.config
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ConsoleApplication4\increament\bin\Debug\increament.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ConsoleApplication4\increament\bin\Debug\increament.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ConsoleApplication4\increament\obj\Debug\increament.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ConsoleApplication4\increament\obj\Debug\increament.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\ConsoleApplication4\increament\obj\Debug\increament.csprojResolveAssemblyReference.cache

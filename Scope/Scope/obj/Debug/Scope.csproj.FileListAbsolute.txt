@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Scope\Scope\bin\Debug\Scope.exe.config
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Scope\Scope\bin\Debug\Scope.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Scope\Scope\bin\Debug\Scope.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Scope\Scope\obj\Debug\Scope.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Scope\Scope\obj\Debug\Scope.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Scope\Scope\obj\Debug\Scope.pdb

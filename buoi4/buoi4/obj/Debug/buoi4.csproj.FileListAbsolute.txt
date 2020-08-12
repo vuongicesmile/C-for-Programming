@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\buoi4\buoi4\bin\Debug\buoi4.exe.config
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\buoi4\buoi4\bin\Debug\buoi4.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\buoi4\buoi4\bin\Debug\buoi4.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\buoi4\buoi4\obj\Debug\buoi4.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\buoi4\buoi4\obj\Debug\buoi4.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\buoi4\buoi4\obj\Debug\buoi4.pdb

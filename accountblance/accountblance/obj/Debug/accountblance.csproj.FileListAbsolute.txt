@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\accountblance\accountblance\bin\Debug\accountblance.exe.config
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\accountblance\accountblance\bin\Debug\accountblance.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\accountblance\accountblance\bin\Debug\accountblance.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\accountblance\accountblance\obj\Debug\accountblance.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\accountblance\accountblance\obj\Debug\accountblance.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\accountblance\accountblance\obj\Debug\accountblance.pdb
