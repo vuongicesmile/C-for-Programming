@@ -1,0 +1,6 @@
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Array\Array\bin\Debug\Array.exe.config
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Array\Array\bin\Debug\Array.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Array\Array\bin\Debug\Array.pdb
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Array\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Array\Array\obj\Debug\Array.exe
+C:\Users\Vuong\Desktop\C#-kĩ thuật lập trình\Array\Array\obj\Debug\Array.pdb
