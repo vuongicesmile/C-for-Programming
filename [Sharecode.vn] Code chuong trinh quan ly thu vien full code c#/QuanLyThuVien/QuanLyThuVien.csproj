@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9F0AEF46-BEC4-4D66-B7CE-BE25EBEB7D2F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuanLyThuVien</RootNamespace>
+    <AssemblyName>QuanLyThuVien</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BCDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCDocGia.Designer.cs">
+      <DependentUpon>BCDocGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCTinhTrangSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCTinhTrangSach.Designer.cs">
+      <DependentUpon>BCTinhTrangSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="capnhatdocgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhatdocgia.Designer.cs">
+      <DependentUpon>capnhatdocgia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="capnhatLv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhatLv.Designer.cs">
+      <DependentUpon>capnhatLv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="capnhatnhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhatnhanvien.Designer.cs">
+      <DependentUpon>capnhatnhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="capnhatNXB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhatNXB.Designer.cs">
+      <DependentUpon>capnhatNXB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="capnhatTG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhatTG.Designer.cs">
+      <DependentUpon>capnhatTG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\clsDatabase.cs" />
+    <Compile Include="DoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoiMatKhau.Designer.cs">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiemTraTTNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiemTraTTNhanVien.Designer.cs">
+      <DependentUpon>KiemTraTTNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TaoTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaoTaiKhoan.Designer.cs">
+      <DependentUpon>TaoTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="thongtinmuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thongtinmuon.Designer.cs">
+      <DependentUpon>thongtinmuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="timkiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timkiem.Designer.cs">
+      <DependentUpon>timkiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="capnhatsach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="capnhatsach.Designer.cs">
+      <DependentUpon>capnhatsach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BCDocGia.resx">
+      <DependentUpon>BCDocGia.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCTinhTrangSach.resx">
+      <DependentUpon>BCTinhTrangSach.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhatdocgia.resx">
+      <DependentUpon>capnhatdocgia.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhatLv.resx">
+      <DependentUpon>capnhatLv.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhatnhanvien.resx">
+      <DependentUpon>capnhatnhanvien.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhatNXB.resx">
+      <DependentUpon>capnhatNXB.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhatsach.resx">
+      <DependentUpon>capnhatsach.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="capnhatTG.resx">
+      <DependentUpon>capnhatTG.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoiMatKhau.resx">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiemTraTTNhanVien.resx">
+      <DependentUpon>KiemTraTTNhanVien.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaoTaiKhoan.resx">
+      <DependentUpon>TaoTaiKhoan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thongtinmuon.resx">
+      <DependentUpon>thongtinmuon.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timkiem.resx">
+      <DependentUpon>timkiem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimkiemDG.resx">
+      <DependentUpon>TimkiemDG.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ttDocgia.resx">
+      <DependentUpon>ttDocgia.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ttLinhVuc.resx">
+      <DependentUpon>ttLinhVuc.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ttNXB.resx">
+      <DependentUpon>ttNXB.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ttSach.resx">
+      <DependentUpon>ttSach.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ttTacgia.resx">
+      <DependentUpon>ttTacgia.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="TimkiemDG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimkiemDG.Designer.cs">
+      <DependentUpon>TimkiemDG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ttDocgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ttDocgia.Designer.cs">
+      <DependentUpon>ttDocgia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ttLinhVuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ttLinhVuc.Designer.cs">
+      <DependentUpon>ttLinhVuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ttNXB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ttNXB.Designer.cs">
+      <DependentUpon>ttNXB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ttSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ttSach.Designer.cs">
+      <DependentUpon>ttSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ttTacgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ttTacgia.Designer.cs">
+      <DependentUpon>ttTacgia.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onebit_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onebit_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onebit_05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onebit_09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onebit_02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onebit_07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onebit_13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onebit_50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onebit_35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vrtableserat.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
